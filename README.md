@@ -82,9 +82,9 @@ The percentage of elevator E use is 4,35%
 Press any key to end
 ```
  
-  ```
-  Thats all for today folks!
-  ```
+
+ ## Thats all for today folks!
+
   
 <div align="center">
   <p>Thanks for reading this, below my contacts.</p>
